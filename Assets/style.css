@@ -1,17 +1,23 @@
 .foto { 
     width: 300px;
-   
     border-radius: 300px;
-    margin: auto;
+    margin: 0 auto;
 }
 body {
     background-color: aqua;
 }
-.texto {
-    height: 50%;
-}
-main {
+
+.main {
+   margin: 0 auto;
     text-align: center;
+   width: 300px;
+}
+.texto {
+    text-align: center;
+}
+.bloco {
+    background-color: rgb(255, 255, 255); 
     width: 800px;
-    margin:  auto;
+    height: 200px;
+    margin: 0 auto;
 }
