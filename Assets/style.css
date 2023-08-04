@@ -1,0 +1,17 @@
+.foto { 
+    width: 300px;
+   
+    border-radius: 300px;
+    margin: auto;
+}
+body {
+    background-color: aqua;
+}
+.texto {
+    height: 50%;
+}
+main {
+    text-align: center;
+    width: 800px;
+    margin:  auto;
+}
